@@ -25,5 +25,4 @@ For this reason I have developed this on-demand database and also a Lottery that
     ./run.sh
 
 ### Donate
-BTC: 1EhJyJwzbp7v2ixPT4heM2caUsmWcX36mc
-Monero: 47Yk8KgtYyaV2RvzJLQKuuMzhiZD5ktdbNzP6jxsjkdSKD8j81uLRCYXKLFVFtsCbLjbyamGBES58Mi4r8wHEGht8ofEVu7
+BTC: 1JtEXzJ6qTMM9eumWd836Z47NY4mzoBNhp
